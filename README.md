@@ -2,14 +2,6 @@
 #  Awesome Tool Of The Day
 
 
-
-#  TODO
-
-* [x]  Directory 
-* [x]  Browser bookmarks
-* [ ]  Install Scripts
-* [ ] Documentation
-
 #  List
 * [Web Application] (#Web Application)
 * [Mobile Application] (#Mobile Application)
