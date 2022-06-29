@@ -8,13 +8,13 @@ Awesome Tool Of The Day ![Awesome Hacking](https://img.shields.io/badge/awesome-
 ----------------------
 
 #  List
-* [Web Application Tools & Checklist] (#Web Application Tools & Checklist)
-* [Mobile Application] (#Mobile Application)
-* [Network Security] (#Network Security)
+* [Web-Application](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/tree/main/Web%20Application%20Tools%20%26%20Checklist)
+* [Mobile-Application](#Mobile-Application)
+* [Network-Security](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/tree/main/Network%20Security)
 * [Forensics](#Forensics)
-* [Binary- Analysis](#Binary Analysis)
+* [Binary-Analysis](#Binary-Analysis)
 * [OSINT](#OSINT)
-* [SCADA](#SCADA)
+* [SCADA](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/tree/main/Scada%20Security)
 
 
 #  Category 1 - Web Application
