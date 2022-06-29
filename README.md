@@ -9,7 +9,7 @@ Awesome Tool Of The Day ![Awesome Hacking](https://img.shields.io/badge/awesome-
 * [Network-Security](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/tree/main/Network%20Security)
 * [Forensics](#Forensics)
 * [Binary-Analysis](#Binary-Analysis)
-* [OSINT](#OSINT)
+* [OSINT](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/tree/main/Open%20Source%20Intelligence)
 * [SCADA](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/tree/main/Scada%20Security)
 
 
