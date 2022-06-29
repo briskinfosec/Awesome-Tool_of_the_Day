@@ -1,48 +1,34 @@
 KAREN
 ============
-Web Application Vulnerability Scanner
+karen is tools for web application vulnerability scanner build in python3 . It performs performs XSS, SQL Injection, Crawling, Hash Type finding, Reverse Lookup, dork search etc.
 
-![ ](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_194.jpg)
-
+![KAREN](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_194.jpg)
 
 Details:
 ============
 |  Details | Description   |
 | ------------ | ------------ |
-|  Tool Name |  KAREN |
+|  Tool Name |  Karen |
 |  Category | Web Application  |
-|  Purpose | Web Application Vulnerability Scanner  |
-|  License |    Opensource|
-
-Demo Video:
------------------
-Click Here for [Video](https://www.youtube.com/watch?v=GJny7uBuPMs  "Video")
-
+|  Purpose | Perform XSS, SQL Injection, Crawling, Hash Type Injection, Reverse lookuo etc  |
+|  Licence | Opensource|
 
 Blog: 
 --------------
-Click Here for [Blog](https://briskinfosec.com/tooloftheday/toolofthedaydetail/KAREN "Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/KAREN)
 
 Installation
 ----------------
-
-- git clone https://github.com/planktonlaut/karen.git
-- cd karen
-- pip3 install -r requirements.txt
-- python3 karen.py
-
-------------
-Features:
-----------------
-
-1. Web Application Vulnerability Scanner.
-2. It performs XSS, SQL Injection, Crawling, Hash Type finding, Reverse Lookup, dork search etc
-
+ Step 1: git clone https://github.com/planktonlaut/karen.git
+ 
+ Step 2: pip3 install -r requirements.txt
+ 
+ Step 3: python3 karen.py
 
 Links
 ----------------
 
- ![ ](https://img.icons8.com/color/15/000000/youtube-play.png) [Briskinfosec Youtube Channel](https://www.youtube.com/channel/UCcPmqqYETcO_7-6p_uUsF1w "Briskinfosec Youtube Channel")
+![ ](https://img.icons8.com/color/15/000000/youtube-play.png) [Briskinfosec Youtube Channel](https://www.youtube.com/channel/UCcPmqqYETcO_7-6p_uUsF1w "Briskinfosec Youtube Channel")
 
 
  ![ ](https://img.icons8.com/glyph-neue/15/000000/github.png) [Github](https://github.com/briskinfosec "Github") 
