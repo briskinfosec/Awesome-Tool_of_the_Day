@@ -4,7 +4,7 @@
  	<br>
 </h1>
 
-Awesome Tool Of The Day ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg)
+Awesome Tool Of The Day ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome Briksinfosec](https://img.shields.io/badge/awesome-hacking-red.svg)
 ----------------------
 
 #  List
