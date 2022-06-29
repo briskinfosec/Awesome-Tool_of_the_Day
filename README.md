@@ -4,8 +4,8 @@
  	<br>
 </h1>
 
-#  Awesome Tool Of The Day ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg)
-
+Awesome Tool Of The Day ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg)
+----------------------
 
 #  List
 * [Web Application Tools & Checklist] (#Web Application Tools & Checklist)
