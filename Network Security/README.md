@@ -6,8 +6,7 @@
 
 Network Security ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg)
 ----------------------
-#  List
-* [Sudo Killer](https://github.com/TH3xACE/SUDO_KILLER.git) - SUDO_KILLER is a tool that can be used for privilege escalation on linux environment by abusing SUDO in several ways. 
+#  List 
 
 * [OWASP Amass Tool](https://github.com/OWASP/Amass/blob/master/doc/install.md) - Network Mapping of Attack Surface
 
