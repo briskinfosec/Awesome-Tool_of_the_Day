@@ -8,23 +8,23 @@ Network Security ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking
 ----------------------
 #  List 
 
-* [OWASP Amass Tool](https://github.com/OWASP/Amass/blob/master/doc/install.md) - Network Mapping of Attack Surface
+* [OWASP Amass Tool](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/owaspamasstool.md) - Network Mapping of Attack Surface
 
-* [Rebel Framework](https://github.com/jacky-htg/rebel-frameworks.git) -Scan Network and Identify Common Vulnerabilities
+* [Rebel Framework](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/Rebel-framework.md) -Scan Network and Identify Common Vulnerabilities
 
-* [Entropy Tool](https://github.com/attackgithub/entropy.git) - Find default IP Cameras Password
+* [Entropy Tool](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/Entropy.md) - Find default IP Cameras Password
 
-* [Legion Tool](https://github.com/GoVanguard/legion.git) - Discovery Reconnaissance and Exploitation of infra systems.
+* [Legion Tool](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/legion.md) - Discovery Reconnaissance and Exploitation of infra systems.
 
-* [OFFPORT_KILLER](https://github.com/TH3xACE/OFFPORT_KILLER.git) - identification of potential service running behind ports.
+* [OFFPORT_KILLER](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/Offport-killer.md) - identification of potential service running behind ports.
 
 * [Yuki Chan](https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest.git) - this tool will auditing all standard security test method.
 
-* [SSHScan](https://github.com/evict/SSHScan.git) - SSHScan is a testing tool that enumerates SSH Ciphers and by using SSHScan, weak ciphers can be easily detected. 
+* [SSHScan](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/Sshscan.md) - SSHScan is a testing tool that enumerates SSH Ciphers and by using SSHScan, weak ciphers can be easily detected. 
 
-* [CIPHERSCAN](https://github.com/mozilla/cipherscan) - Discovers the SSL ciphersuites supported by the target.
+* [CIPHERSCAN](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/Cipherscan.md) - Discovers the SSL ciphersuites supported by the target.
 
-* [Vulnmap](https://github.com/vulmon/Vulmap) - Vulscan tool can be used for scanning internal servers/machines connected to your systems. 
+* [Vulnmap](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/vulmap.md) - Vulscan tool can be used for scanning internal servers/machines connected to your systems. 
 
 * [RedHawk]( https://github.com/Tuhinshubhra/RED_HAWK) - All in one tool for Information Gathering and Vulnerability Scanning.
 
@@ -42,7 +42,6 @@ Network Security ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking
 
 * [Tidos-Framework](https://github.com/0xInfection/TIDoS-Framework.git) - A complete versatile framework to cover up everything from Reconnaissance to Vulnerability Analysis.
 
-* [DnsTwist]( https://github.com/elceef/dnstwist) - DNS fuzzing is an automated workflow for discovering potentially malicious domains targeting your organisation. 
+* [DnsTwist](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/Dnstwist.md) - DNS fuzzing is an automated workflow for discovering potentially malicious domains targeting your organisation. 
 
-* [Malicious PDF](https://github.com/jonaslejon/malicious-pdf.git) - Used for penetration testing and/or red-teaming etc. I created this tool because i needed a third party tool to generate a bunch of PDF files with various links. 
-
+* [Malicious PDF](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/Malicious-pdf.md) - Used for penetration testing and/or red-teaming etc. I created this tool because i needed a third party tool to generate a bunch of PDF files with various links. 
