@@ -1,4 +1,4 @@
-![Network Security](NetSec.png)
+![Network Security](NetSec.png) ![Network Sec](https://img.shields.io/badge/Awesome-NetworkSec-success)
 
 Network Security ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg)
 ----------------------
