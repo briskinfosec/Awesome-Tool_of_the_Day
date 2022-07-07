@@ -4,7 +4,7 @@ Network Security ![Network Sec](https://img.shields.io/badge/Awesome-NetworkSec-
 ----------------------
 #  List 
 
-* [OWASP Amass Tool](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/owaspamasstool.md) - Network Mapping of Attack Surface
+* [OWASP Amass Tool](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/Tools/owaspamasstool.md) - Network Mapping of Attack Surface
 
 * [Rebel Framework](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/Rebel-framework.md) -Scan Network and Identify Common Vulnerabilities
 
