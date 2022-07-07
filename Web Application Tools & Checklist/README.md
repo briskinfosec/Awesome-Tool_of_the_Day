@@ -1,1 +1,51 @@
-test
+![Web Application](NetSec.png) 
+
+Web Application Tools ![Network Sec](https://img.shields.io/badge/Awesome-NetworkSec-success)
+----------------------
+#  List 
+
+* [BYP4XX](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Bypass4XX.md) - Python script for 40X responses bypassing. Methods from #bugbountytips, headers, verb tampering and user agents.
+* [CMSEEK](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Cmseek.md) - Scan WordPress, Joomla, Drupal and over 180 other CMS's
+* [FinalRecon](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/FinalRecon.md) - FinalRecon is a fast and simple python script for web reconnaissance. It follows a modular structure so in future new modules can be added with ease.
+* [Karen](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Karen.md) - Web Application Vulnerability Scanner
+* [Network Spoofing](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Network%20Spoofing.md) - Network Spoofing is a simple website hacking tool which can scan a website and can also perform attack using this tool.
+* [Paramsoider](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Paramspider.md) - Mining parameters from dark corners of Web Archives
+* [SH Check](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/SH%20CHECK.md) - A basic tool to check security headers of a website.
+* [Sqlmap](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Sqlmap.md) - Automatic SQL injection and database takeover tool
+* [Tidios Framework](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Tidios%20Framework.md) - A complete versatile framework to cover up everything from Reconnaissance to Vulnerability Analysis.
+* [Tracy](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Tracy.md) - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
+* [Uniscan](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Uniscan.md) - Uniscan is a simple Remote File Include, Local File Include and Remote Command Execution vulnerability scanner.
+* [WA Scan](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/WA%20Scan.md) - WAScan ((W)eb (A)pplication (Scan)ner) is a Open Source web application security scanner.
+* [WAF WOOF](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/WAF%20WOOF.md) - WAF W00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
+* [Webpwn3r](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Webpwn3r.md) - Web Application Vulnerability Scanners are automated tools that scan web applications.
+* [Weevely](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Weevely.md) - Weevely is a web shell designed for post-exploitation purposes that can be extended over the network at runtime.
+* [Whatweb](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Whatweb.md) - It can identify all sorts of information about a live website.
+* [Yuki Chan](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Yuki%20Chan.md) - he Yuki Chan is an Automated Penetration Testing tool this tool will auditing all standard security test method for you.
+* [Black Widow](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/blackwidow.md) - BlackWidow is a python based web application spider to gather subdomains, URL's, dynamic parameters, email addresses and phone numbers from a target website.
+* [Whatwaf](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/whatwaf.md) - WhatWaf is an advanced firewall detection tool which works by detecting a firewall on a web application, and attempting to detect a bypass for said firewall, on the specified target.
+* [Arachni](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Arachni.md) - Identifies vulnerabilities in web application.
+* [Altair](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Atlair.md) - check if the website is vulnerable of clickjacking and creates a poc.
+* [Blazy](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Blazy.md) - Blazy is a modern login page bruteforcer.
+* [Clickjacking Tool](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Clickjacking%20Tester.md) - SeA python script designed to check if the website is vulnerable of clickjacking and creates a poc.
+* [Corsy](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Corsy.md) - Corsy is a lightweight program that scans for all known misconfigurations in CORS implementations.
+* [File-Buster](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/File-Buster.md) - Content Discovery Script with Loads of Features.
+* [FinalRecon](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/FinalRecon.md) - Python Script for Web Reconnaissance.
+* [Fuzz Faster U Fool](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Fuzz%20Faster%20U%20Fool.md) - Fuzzing Get and Post data.
+* [Nikto](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Nikto.md) - Nikto is an Open Source (GPL) web server scanner which performs comprehensive tests against web servers for multiple items. 
+* [Parth](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Parth.md) - Heuristic Vulnerable Parameter Scanner.
+* [Pompem](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Pompem.md) - Pompem is an open source tool, designed to automate the search for Exploits and Vulnerability in the most important databases.
+* [Rvuln](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Rvuln.md) - RVuln is Multi-threaded Web Application Vulnerability Scanner written in Rust.
+* [SQLiv](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/SQLiv.md) - multiple domain scanning with SQL injection dork by Bing, Google, or Yahoo targetted scanning by providing specific domain (with crawling) reverse domain scanning.
+* [Secretfinder](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/SecretFinder.md) - SecretFinder is a python script to discover sensitive data like api keys, access token, authorizations, jwt,..etc in JavaScript(JS) files.
+* [Tishna](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Tishna.md) - Tishna is Web Server Security Penetration Software for Ultimate Security Analaysis.
+* [XForwardy](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Xforwardy.md) - XForwardy is a Host Header Injection scanning tool which can detect misconfigurations , where Host Header Injections are potentially possible.
+* [Droopscan](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/droopescan.md) - Plugin Based Scanner that Identify issues with Several CMS.
+* [Fast-Google-Dork-Scanner](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/fast.md) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal.
+* [Git Scanner Framework](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/git%20scanner%20framework.md) - Scan website with Open .git Repositories.
+* [Oneforall](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/oneforall.md) - OneForAll Powerful Sub Domain & DNS Enumeration.
+* [Subbrute](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/subbrute.md) - Identifies sub domains by bruteforcing.
+* [Turbolist3r](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/turbloist3r.md)Turbolist3r is a fork of the sublist3r subdomain discovery tool. 
+* [W9scan](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/w9scan.md) - A multi-threaded-vulnerability-scanner written in Rust.
+ 
+
+
