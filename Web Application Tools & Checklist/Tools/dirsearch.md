@@ -19,7 +19,7 @@ Click Here for [Video](https://www.youtube.com/watch?v=c4G-VsndIzw "Video")
 
 Blog: 
 --------------
-Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/DIRSEARCH- "Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/DIRSEARCH "Blog")
 
 Installation
 ----------------
