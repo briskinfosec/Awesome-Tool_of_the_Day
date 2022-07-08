@@ -14,11 +14,11 @@ Details:
 
 Demo Video:
 -----------------
-Click Here for [Video](https://youtu.be/T0ChADnFrxU"Video")
+Click Here for [Video](https://youtu.be/T0ChADnFrxU "Video")
 
 Blog: 
 --------------
-Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/NIKTO-Web-Server-Vulnerability-Scanner"Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/NIKTO-Web-Server-Vulnerability-Scanner "Blog")
 
 Installation
 ----------------
