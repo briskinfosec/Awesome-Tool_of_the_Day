@@ -15,9 +15,12 @@ Details:
 
 Blog: 
 --------------
+Demo Video:
+-----------------
+Click Here for [Video](https://www.youtube.com/watch?v=OQ0D8tcyac8 "Video")
 
-Click Here for [Video](Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/WHATWEB "Video")
-
+Blog: 
+--------------
 Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/WHATWEB "Blog")
 
 Usage
