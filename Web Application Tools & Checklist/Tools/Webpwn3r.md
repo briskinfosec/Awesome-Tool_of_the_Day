@@ -13,6 +13,13 @@ Category : Web Application
 purpose  : looks for security vulnerabilities such as XSS, SQL Injection, Command Injection etc.
 Licence : Opensource
 
+Demo Video:
+-----------------
+Click Here for [Video](https://www.youtube.com/watch?v=tyNpDla8oPY "Video")
+
+Blog: 
+--------------
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/Webpwn3r "Blog")
 
 
 Installation
