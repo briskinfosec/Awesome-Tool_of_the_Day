@@ -15,11 +15,11 @@ Details:
 
 Demo Video:
 -----------------
-Click Here for [Video]https://youtu.be/VtjF5LBT0uo"Video")
+Click Here for [Video](https://youtu.be/VtjF5LBT0uo"Video")
 
 Blog: 
 --------------
-Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/XFORWARDY"Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/XFORWARDY "Blog")
 
 Installation
 ----------------
