@@ -16,11 +16,11 @@ Details:
 
 Demo Video:
 -----------------
-Click Here for [Video](https://youtu.be/4qr6vDHuPAc"Video")
+Click Here for [Video](https://youtu.be/4qr6vDHuPAc "Video")
 
 Blog: 
 --------------
-Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/Pompem-Exploit-and-Vulnerability-Finder"Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/Pompem-Exploit-and-Vulnerability-Finder "Blog")
 
 Installation
 ----------------
