@@ -14,7 +14,7 @@ Details:
 
 Demo Video:
 -----------------
-Click Here for [Video]https://youtu.be/T0ChADnFrxU"Video")
+Click Here for [Video](https://youtu.be/T0ChADnFrxU"Video")
 
 Blog: 
 --------------
