@@ -10,9 +10,9 @@ Details:
 |  Details | Description   |
 | ------------ | ------------ |
 |Tool Name:| Pompem |
-|Category :| Web Application |
-|purpose  :|Pompem is an open source tool, designed to automate the search for Exploits and Vulnerability in the most important databases. Developed in Python, has a system of advanced search, that help the work of pentesters and ethical hackers. |
-|License  :| Opensource
+|Category:| Web Application |
+|purpose:|Pompem is an open source tool, designed to automate the search for Exploits and Vulnerability in the most important databases. Developed in Python, has a system of advanced search, that help the work of pentesters and ethical hackers. |
+|License:| Opensource
 
 Demo Video:
 -----------------
