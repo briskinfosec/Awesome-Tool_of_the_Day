@@ -15,11 +15,11 @@ Details:
 
 Demo Video:
 -----------------
-Click Here for [Video]https://youtu.be/6LBlFScpHao"Video")
+Click Here for [Video](https://youtu.be/6LBlFScpHao"Video")
 
 Blog: 
 --------------
-Click Here for [Blog]([https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/CORSY-Tool-Opensource-CORS-Web-Vulnerability-Scanner](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/CORSY-Tool-Opensource-CORS-Web-Vulnerability-Scanner"Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/CORSY-Tool-Opensource-CORS-Web-Vulnerability-Scanner"Blog")
 
 Installation
 ----------------
