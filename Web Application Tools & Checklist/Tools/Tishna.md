@@ -19,7 +19,7 @@ Click Here for [Video](https://www.youtube.com/watch?v=nqICOcOeCVs "Video")
 
 Blog: 
 --------------
-Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/Tishna-Automated-Pentest-Framework- "Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/Tishna-Automated-Pentest-Framework "Blog")
 
 Installation
 ----------------
