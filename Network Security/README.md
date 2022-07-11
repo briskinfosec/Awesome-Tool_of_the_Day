@@ -1,4 +1,4 @@
-![Network Security](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/Network.png) 
+![Network Security](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/NetworkSec.png) 
 
 Network Security ![Network Sec](https://img.shields.io/badge/Awesome-NetworkSec-success)
 ----------------------
