@@ -1,6 +1,6 @@
 ![Web Application](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/webapp.png) 
 
-Web Application Tools ![Network Sec](https://img.shields.io/badge/Awesome-NetworkSec-success)
+Web Application Tools ![Network Sec](https://img.shields.io/badge/Awesome-WebAppSec-success)
 ----------------------
 #  List 
 
