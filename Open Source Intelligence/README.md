@@ -1,6 +1,6 @@
-![Open Source Intelligence Tools](NetSec.png) 
+![Open Source Intelligence Tools](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Open%20Source%20Intelligence/osint.png) 
 
-Open Source Intelligence Tools ![Network Sec](https://img.shields.io/badge/Awesome-NetworkSec-success)
+Open Source Intelligence Tools ![Network Sec](https://img.shields.io/badge/Awesome-OSINT-success)
 ----------------------
 #  List 
 
