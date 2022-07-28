@@ -1,1 +1,2 @@
-Test
+* [SMOD](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Scada%20Security/Tools/SMOD.md) - smod smod is a modular framework with every kind of diagnostic and offensive feature you could need in order to pentest modbus protocol. 
+* [American Fuzzy Tool](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Scada%20Security/Tools/American%20Fuzzy%20Tool.md) - Identifies bad exception handling, Incorrect null handling etc.. Using Fuzzing
