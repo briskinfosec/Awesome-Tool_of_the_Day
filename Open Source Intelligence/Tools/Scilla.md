@@ -19,7 +19,7 @@ Click Here for [Video](https://youtu.be/kKFz_MG1aX4?list=PLOEp8ZXsJlIrjgNHG8WW7x
 
 Blog: 
 --------------
-Click Here for [Blog]( "Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/Scilla "Blog")
 
 Installation
 ----------------
