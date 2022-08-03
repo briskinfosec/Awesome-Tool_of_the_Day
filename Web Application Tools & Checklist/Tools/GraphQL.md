@@ -19,7 +19,7 @@ Click Here for [Video](https://youtu.be/piCog5lhsnk"Video")
 
 Blog: 
 --------------
-Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/GraphQL"Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/GraphQL "Blog")
 
 Installation
 ----------------
