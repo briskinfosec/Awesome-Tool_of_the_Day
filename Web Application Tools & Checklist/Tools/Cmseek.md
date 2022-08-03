@@ -22,7 +22,7 @@ Click Here for [Video](https://www.youtube.com/watch?v=H5EwPKA_sBI  "Video")
 
 Blog: 
 --------------
-Click Here for [Blog]( "Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/CMSEEK  "Blog")
 
 Installation
 ----------------
