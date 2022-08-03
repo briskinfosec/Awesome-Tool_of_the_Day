@@ -5,7 +5,8 @@ Web Application Tools ![Network Sec](https://img.shields.io/badge/Awesome-WebApp
 #  List 
 
 * [BYP4XX](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Bypass4XX.md) - Python script for 40X responses bypassing. Methods from #bugbountytips, headers, verb tampering and user agents.
-* [CMSEEK](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Cmseek.md) - Scan WordPress, Joomla, Drupal and over 180 other CMS's
+* [CMSEEK](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Cmseek.md) - Scan WordPress, Joomla, Drupal and over 180 other CMS's.
+* [Helios](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Helios.md) - It performs XSS, SQL Injection, Crawling, Hash Type finding, Reverse Lookup, dork search etc.
 * [FinalRecon](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/FinalRecon.md) - FinalRecon is a fast and simple python script for web reconnaissance. It follows a modular structure so in future new modules can be added with ease.
 * [Karen](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Karen.md) - Web Application Vulnerability Scanner
 * [Google-Dork-Scanner](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/Google-Dork-Scanner.md) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal.
