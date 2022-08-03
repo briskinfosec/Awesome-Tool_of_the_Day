@@ -15,11 +15,11 @@ Details:
 
 Demo Video:
 -----------------
-Click Here for [Video]https://youtu.be/OVtWAAJS4Ok"Video")
+Click Here for (Video](https://youtu.be/OVtWAAJS4Ok"Video")
 
 Blog: 
 --------------
-Click Here for [Blog]("Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/Helios "Blog")
 
 Installation
 ----------------
