@@ -50,6 +50,3 @@ Web Application Tools ![Network Sec](https://img.shields.io/badge/Awesome-WebApp
 * [Subbrute](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/subbrute.md) - Identifies sub domains by bruteforcing.
 * [Turbolist3r](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/turbloist3r.md)Turbolist3r is a fork of the sublist3r subdomain discovery tool. 
 * [W9scan](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/w9scan.md) - A multi-threaded-vulnerability-scanner written in Rust.
- 
-
-
