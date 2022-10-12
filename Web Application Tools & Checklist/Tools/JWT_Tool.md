@@ -2,7 +2,7 @@ DZGEN
 ============
 A toolkit for testing, tweaking and cracking JSON Web Tokens  
 
-![JWT_Tool](website link)
+![JWT_Tool](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Web%20Application%20Tools%20%26%20Checklist/Tools/JWT_Tool.md)
 
 Details:
 ============
