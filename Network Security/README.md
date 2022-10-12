@@ -41,3 +41,4 @@ Awesome-TOD Network Security ![Network Sec](https://img.shields.io/badge/Awesome
 * [DnsTwist](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/Tools/Dnstwist.md) - DNS fuzzing is an automated workflow for discovering potentially malicious domains targeting your organisation. 
 
 * [Malicious PDF](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/Tools/Malicious-pdf.md) - Used for penetration testing and/or red-teaming etc. I created this tool because i needed a third party tool to generate a bunch of PDF files with various links. 
+* [DZGEN](https://github.com/briskinfosec/Awesome-Tool_of_the_Day/blob/main/Network%20Security/Tools/DZGEN.md) - Tools used for scan port , Brute force protocol Service ,scan website , exploit system , exploit sql injection website.
