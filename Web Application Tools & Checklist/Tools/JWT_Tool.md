@@ -1,4 +1,4 @@
-DZGEN
+JWT_Tool
 ============
 A toolkit for testing, tweaking and cracking JSON Web Tokens  
 
