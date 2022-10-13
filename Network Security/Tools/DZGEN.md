@@ -3,7 +3,7 @@ DZGEN
 
 Tool used to scan ports , Brute force protocol Service ,scan website , exploit system , exploit sql injection website.
 
-![DZGEN](website link)
+![DZGEN](https://www.briskinfosec.com//assets/tooloftheday/TOD_244.png)
 
 Details:
 ============
@@ -20,7 +20,7 @@ Click Here for [Video](https://youtu.be/Oy04TpUZfjc "Video")
 
 Blog: 
 --------------
-Click Here for [Blog]( "Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/DZGEN "Blog")
 
 Installation
 ----------------
