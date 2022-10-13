@@ -1,9 +1,9 @@
 DZGEN
 ============
-
-Tool used to scan ports , Brute force protocol Service ,scan website , exploit system , exploit sql injection website.
+This tool is working with kali linux tools scan port , Brute force protocol Service ,scan website , exploit system , exploit sql injection website and also have other characteristics
 
 ![DZGEN](https://www.briskinfosec.com//assets/tooloftheday/TOD_244.png)
+
 
 Details:
 ============
@@ -24,12 +24,20 @@ Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydeta
 
 Installation
 ----------------
+
+    Download the tool from github
+    
     git clone https://github.com/joker25000/DZGEN
+    
     cd DZGEN
+    
     chmod +x DZGEN
+    
     ./DZGEN
+    
     Run DZGEN tool in terminal
-    DZGEN
+    
+    DZGEN     
     
 Links
 ----------------
