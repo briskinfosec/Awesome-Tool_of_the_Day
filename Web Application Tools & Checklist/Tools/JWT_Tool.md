@@ -2,7 +2,7 @@ JWT_Tool
 ============
 A toolkit for testing, tweaking and cracking JSON Web Tokens  
 
-![JWT_Tool](Image)
+![JWT_Tool](https://www.briskinfosec.com//assets/tooloftheday/TOD_2441.png)
 
 Details:
 ============
@@ -19,7 +19,7 @@ Click Here for [Video](https://youtu.be/Ak9JkvpbvCc "Video")
 
 Blog: 
 --------------
-Click Here for [Blog]( "Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/JWT_Tool "Blog")
 
 Installation
 ----------------
