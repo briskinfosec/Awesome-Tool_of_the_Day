@@ -23,9 +23,14 @@ Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydeta
 
 Installation
 ----------------
+Installation is just a case of downloading the jwt_tool.py file (or git clone the repo).
+(chmod the file too if you want to add it to your $PATH and call it from anywhere.)
+
    git clone https://github.com/ticarpi/jwt_tool
    
    python3 -m pip install termcolor cprint pycryptodomex requests
+   
+ On first run the tool will generate a config file, some utility files, logfile, and a set of Public and Private keys in various formats.  
    
 Usage
 ------------
