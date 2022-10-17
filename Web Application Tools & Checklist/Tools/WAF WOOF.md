@@ -2,7 +2,7 @@ WAF WOOF
 ============
  WAF W00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
 
-![ ](https://briskinfosec.com//assets/tooloftheday/115.jpg)
+![WAF WOOF ](https://www.briskinfosec.com/assets/tooloftheday/115.jpg)
 
 
 Details:
