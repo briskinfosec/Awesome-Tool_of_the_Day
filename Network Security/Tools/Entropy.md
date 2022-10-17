@@ -2,7 +2,7 @@ ENTROPY
 ============
 This tool  is use to find the default Ip cameras passwords over different vendors
 
-![ ](https://briskinfosec.com//assets/tooloftheday/113.jpg)
+![ENTROPY](https://www.briskinfosec.com//assets/tooloftheday/113.jpg)
 
 
 Details:
