@@ -2,7 +2,7 @@ KAREN
 ============
 Web Application Vulnerability Scanner
 
-![ ](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_194.jpg)
+![Karen](https://www.briskinfosec.com/assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_194.jpg)
 
 
 Details:
