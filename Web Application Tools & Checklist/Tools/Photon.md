@@ -2,7 +2,7 @@ Photon Tool
 ============
 Photon is a incredibly fast crawler designed for automating OSINT(Open Source Intelligence). This tool designed with the simple command line interface consists with multiple options and flags to perform the specific passive reconnaissance operation on our target url or domain name. This tool is written in Python 3x, by s0md3v. You can also install this as a python module by using pip. Photon basically acts as the web crawler which can able to extract the urls and parameters in web application automatically by spidering. Also able to fuzz them and finding the secret auth keys, fetching the previous information about the website from wayback archive so on. Flexibility is one of the main advantage in Photon you can control timeouts, delays and also add seeds, excluding the urls matching the regex pattern. This tool let’s you crawl the web exactly the way you want.
  
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/130.jpg)
+![photon](https://www.briskinfosec.com/assets/tooloftheday/130.jpg)
 
 Key Features:
 -----------------
