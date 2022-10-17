@@ -2,7 +2,7 @@ XSpear
 ============
 XSpear is XSS Scanner tool which is written in ruby gems. It can be useful for detecting the XSS vulnerability with different level of payloads.
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_6.jpg)
+![XSpear](https://www.briskinfosec.com/assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_6.jpg)
 
 Features:
 -----------------
