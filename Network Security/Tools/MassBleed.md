@@ -2,7 +2,7 @@ MassBleed
 ============
 SSL Vulnerability Scanner
 
-![BYP4XX](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_192.jpg)
+![MassBleed](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_192.jpg)
 
 
 Details:
@@ -52,8 +52,9 @@ VULNERABILITIES
 
 Links
 ----------------
-:fa-youtube-play:  [Briskinfosec Youtube Channel](https://www.youtube.com/channel/UCcPmqqYETcO_7-6p_uUsF1w "Briskinfosec Youtube Channel")
+![ ](https://img.icons8.com/color/15/000000/youtube-play.png) [Briskinfosec Youtube Channel](https://www.youtube.com/channel/UCcPmqqYETcO_7-6p_uUsF1w "Briskinfosec Youtube Channel")
 
-:fa-github:  [Github](https://github.com/briskinfosec "Github") 
 
-:fa-globe: [Our Website](https://www.briskinfosec.com/ "Our Website")
+ ![ ](https://img.icons8.com/glyph-neue/15/000000/github.png) [Github](https://github.com/briskinfosec "Github") 
+
+  ![ ](https://img.icons8.com/ios/15/000000/internet--v2.png) [Our Website](https://www.briskinfosec.com/ "Our Website")
