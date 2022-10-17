@@ -13,7 +13,6 @@ Check security headers on a target website:
 
 How to run:
 ----------------
-# Pypi
 - pip3 install shcheck
 - shcheck.py https://insecurity.blog
 
