@@ -6,7 +6,7 @@ It is smart, it trains itself by monitoring and learning from the web applicatio
 
 Unlike other scanners, it takes into account the dynamic nature of web applications, can detect changes caused while travelling through the paths of a web application’s cyclomatic complexity and is able to adjust itself accordingly. This way, attack/input vectors that would otherwise be undetectable by non-humans can be handled seamlessly
 
-![Webpwn3r](https://www.briskinfosec.com//assets/tooloftheday/Tool_Of_the_day61.jpg)
+![Arachni](https://www.briskinfosec.com//assets/tooloftheday/Tool_Of_the_day61.jpg)
 
 Details:
 ============
