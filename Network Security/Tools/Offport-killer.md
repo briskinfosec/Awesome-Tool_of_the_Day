@@ -2,7 +2,7 @@ OFFPORT KILLER
 ============
 The tool aims at automating the identification of potential services running behind ports identified manually either through manual scan or services running locally.
 
-![ ](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples.jpg)
+![OFFPORT KILLER](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples.jpg)
 
 
 Details:
