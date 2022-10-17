@@ -2,7 +2,7 @@ JADX
 ============
 jadx is a Command line and GUI tools for produce Java source code from Android Dex and Apk files.
 
-![Webpwn3r](https://www.briskinfosec.com/assets/tooloftheday/133.jpg)
+![JADX](https://www.briskinfosec.com/assets/tooloftheday/133.jpg)
 
 Details:
 ============
