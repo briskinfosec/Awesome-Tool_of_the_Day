@@ -2,7 +2,7 @@ GoSpider
 ============
 GoSpider is a Fast web spider written in Go. It has lot of features to find the subdomains, JS files, AWS details, etc. 
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_184.jpg)
+![GoSpider](https://www.briskinfosec.com/assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_184.jpg)
 
 Key Features:
 -----------------
