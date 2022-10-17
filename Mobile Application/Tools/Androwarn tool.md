@@ -2,7 +2,7 @@ Androwarn tool
 ============
 Androwarn is an instrument whose primary point is to identify and caution the client about potential pernicious practices developped by an Android application.The identification is performed with the static examination of the application's Dalvik bytecode, spoke to as Smali, with the androguard library.This investigation prompts the age of a report, as indicated by a specialized detail level browsed the client.
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/121.jpg)
+![Androwarn tool](https://www.briskinfosec.com//assets/tooloftheday/121.jpg)
 
 Details:
 ============
