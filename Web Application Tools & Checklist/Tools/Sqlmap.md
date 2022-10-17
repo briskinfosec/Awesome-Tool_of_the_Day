@@ -3,7 +3,7 @@ SQLMAP
 
 Automatic SQL injection and database takeover tool
 
-![ ](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_178.jpg)
+![SQLMAP ](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_178.jpg)
 
 
 Details:
