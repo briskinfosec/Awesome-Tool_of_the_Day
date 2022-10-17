@@ -3,7 +3,7 @@ FridaLoader
 FridaLoader is an Android app to setup frida and launch in quick way. It download and launch the latest version of Frida server based on the architecture of the Genymotion/AVD Emulator and Rooted Android Physical Devices.
 
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_191.jpg)
+![FridaLoader](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_191.jpg)
 
 Details:
 ============
