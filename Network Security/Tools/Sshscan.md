@@ -2,7 +2,7 @@ SSH SCAN
 ============
 SSHScan is a testing tool that enumerates SSH Ciphers and by using SSHScan, weak ciphers can be easily detected
 
-![ ](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_1.jpg)
+![SSH SCAN](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_1.jpg)
 
 
 Details:
@@ -21,7 +21,7 @@ Click Here for [Video](https://www.youtube.com/watch?v=065kRmvyCXY  "Video")
 
 Blog:
 --------------
-Click Here for [Blog](https://briskinfosec.com/tooloftheday/toolofthedaydetail/SSHScan "Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/SSHScan "Blog")
 
 Installation
 ----------------
