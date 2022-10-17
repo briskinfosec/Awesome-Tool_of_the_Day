@@ -2,7 +2,7 @@ Yuki Chan
 ============
 The Yuki Chan is an Automated Penetration Testing tool this tool will auditing all standard security test method for you.
 
-![YukiChan](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest.jpg)
+![YukiChan](https://www.briskinfosec.com/assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest.jpg)
 
 
 Details:
