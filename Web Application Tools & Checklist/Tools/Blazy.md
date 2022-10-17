@@ -1,5 +1,6 @@
 Blazy
 ============
+ 
  Blazy is a modern login page bruteforcer.
 
 ![Webpwn3r](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_9.jpg)
@@ -15,7 +16,7 @@ Details:
 
 Demo Video:
 -----------------
-Click Here for [Video][https://youtu.be/mQ9os_A5QfQ"Video")
+Click Here for [Video](https://youtu.be/mQ9os_A5QfQ"Video")
 
 Blog: 
 --------------
