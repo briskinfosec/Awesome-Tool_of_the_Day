@@ -2,7 +2,7 @@ LEGION
 ============
  Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems
 
-![ ](https://briskinfosec.com//assets/tooloftheday/Tool_Of_the_day201.jpg)
+![LEGION](https://www.briskinfosec.com//assets/tooloftheday/Tool_Of_the_day201.jpg)
 
 
 Details:
