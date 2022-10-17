@@ -3,7 +3,7 @@ RiskInDroid
 RiskInDroid (Risk Index for Android) is a quantitative risk analysis tool for Android applications written in Java (used to check app permissions) and Python (used to calculate risk value based on app permissions). 
 
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Copy_of_Copy_of2.jpg)
+![RiskInDroid](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Copy_of2.jpg)
 
 Details:
 ============
