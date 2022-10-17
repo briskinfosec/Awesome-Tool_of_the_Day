@@ -1,24 +1,8 @@
 BlackDir-Framework
 ============
-[1] Spider Directories
+Web Application Vulnerability Scanner.
 
-[2] Find Sub Domain
-
-[3] Advanced Dorks Search
-
-[4] Scan list of Dorks
-
-[5] Scan WebSites [Xss,Sql,Html Inj]
-
-[6] Reverse Ip Lookup
-
-[7] Port Scan
-
-[8] Hash Encryption[md4,md5,sha1,sha256,sha384,sha512]
-
-[9] Hash Identifier
-
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/152.jpg)
+![BlackDir-Framework](https://www.briskinfosec.com//assets/tooloftheday/152.jpg)
 
 Details:
 ============
