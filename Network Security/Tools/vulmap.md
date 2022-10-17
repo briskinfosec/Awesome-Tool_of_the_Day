@@ -2,7 +2,7 @@ VULMAP
 ============
 Vulmap Online Local Vulnerability Scanners Project
 
-![ ]()
+![VULMAP](https://www.briskinfosec.com//assets/tooloftheday/Vulmap.png)
 
 
 Details:
@@ -21,7 +21,7 @@ Click Here for [Video](https://www.youtube.com/watch?v=rP_nWSpksG8  "Video")
 
 Blog:
 --------------
-Click Here for [Blog]( "Blog")
+Click Here for [Blog]( "https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/VULMAP")
 
 Installation
 ----------------
