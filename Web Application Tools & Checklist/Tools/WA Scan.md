@@ -2,7 +2,7 @@ WA SCAN
 ============
 WAScan ((W)eb (A)pplication (Scan)ner) is a Open Source web application security scanner.
 
-![BYP4XX](https://briskinfosec.com//assets/tooloftheday/116.jpg)
+![WA Scan](https://www.briskinfosec.com/assets/tooloftheday/116.jpg)
 
 
 Details:
