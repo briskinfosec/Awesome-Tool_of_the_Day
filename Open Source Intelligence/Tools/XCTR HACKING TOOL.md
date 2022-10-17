@@ -5,7 +5,7 @@ XCTR is an all in one tools for Information Gathering which can admin panel,page
 
 
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_7.jpg)
+![XCTR HACKING TOOL](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_7.jpg)
 
 Details:
 ============
