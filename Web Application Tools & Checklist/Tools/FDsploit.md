@@ -2,6 +2,8 @@ FDsploit
 ============
 File Inclusion & Directory Traversal fuzzing, enumeration & exploitation tool. 
 
+![FDsploit](https://www.briskinfosec.com//assets/tooloftheday/FDsploit.png)
+
 Features:
 -----------------
 - The LFI-shell interface provides only the output of the file readed or the command issued and not all the html code.
