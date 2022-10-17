@@ -3,7 +3,7 @@ DNS TWIST
 
  Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 
-![ ](https://briskinfosec.com//assets/tooloftheday/114.jpg)
+![DNS TWIST](https://www.briskinfosec.com//assets/tooloftheday/114.jpg)
 
 
 Details:
