@@ -1,7 +1,7 @@
 Wapiti
 ============
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/122.jpg)
+![Wapiti](https://www.briskinfosec.com/assets/tooloftheday/122.jpg)
 
 # Requirements
 In order to work correctly, Wapiti needs :
