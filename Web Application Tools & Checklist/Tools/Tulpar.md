@@ -2,7 +2,7 @@ Tulpar
 ============
 Tulpar is a open source web vulnerability scanner for written to make web penetration testing automated.
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Copy_of_Copy.jpg)
+![Tulpar](https://www.briskinfosec.com/assets/tooloftheday/Copy_of_Copy.jpg)
 
 Installation
 ----------------
