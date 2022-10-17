@@ -1,4 +1,4 @@
-shcheck
+Shcheck
 ============
  A basic tool to check security headers of a website 
  
