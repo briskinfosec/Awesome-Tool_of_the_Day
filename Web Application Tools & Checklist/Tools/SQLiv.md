@@ -20,7 +20,7 @@ Details:
 
 Demo Video:
 -----------------
-Click Here for [Video]https://youtu.be/EW2LLIE2Csk"Video")
+Click Here for [Video](https://youtu.be/EW2LLIE2Csk"Video")
 
 Blog: 
 --------------
