@@ -2,7 +2,7 @@ Dex2Jar
 ============
 Dex2Jar is an instrument whose primary point is to convert .dex files into jar and smali files.The Dex2jar is mainly used for reverse engineering Android applications. 
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/151.jpg)
+![Dex2Jar](https://www.briskinfosec.com//assets/tooloftheday/151.jpg)
 
 Details:
 ============
