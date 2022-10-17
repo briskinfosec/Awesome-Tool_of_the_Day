@@ -2,7 +2,7 @@ XForwardy
 ============
 XForwardy is a Host Header Injection scanning tool which can detect misconfigurations , where Host Header Injections are potentially possible.
 
-![XForwardy](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_4.jpg)
+![XForwardy](https://www.briskinfosec.com/assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_4.jpg)
 
 Details:
 ============
