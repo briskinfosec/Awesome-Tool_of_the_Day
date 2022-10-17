@@ -3,7 +3,7 @@ ClassyShark
 ClassyShark is a standalone binary inspection tool for Android developers/testers. It can reliably browse any Android executable and show important info such as class interfaces and members, dex counts and dependencies. ClassyShark supports multiple formats including libraries (.dex, .aar, .so), executables (.apk, .jar, .class) and all Android binary XMLs: AndroidManifest, resources, layouts etc.
 
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Copy_of_Copy_of_143_158.jpg)
+![ClassyShark](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Copy_of_143_158.jpg)
 
 Details:
 ============
