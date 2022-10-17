@@ -8,7 +8,7 @@ This tool is used to detect these type of vulnerabilities
 - Template Injection
 - SQl Injection
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/127.jpg)
+![ScanT3r](https://www.briskinfosec.com/assets/tooloftheday/127.jpg)
 
 # Installation : 
  open your terminal, enter this command
