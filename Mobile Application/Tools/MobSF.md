@@ -3,7 +3,7 @@ MobSF
 Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) Static and Dynamic analysis, malware analysis.
 
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Tool_Of_the_day.jpg)
+![MobSF](https://www.briskinfosec.com//assets/tooloftheday/Tool_Of_the_day.jpg)
 
 Details:
 ============
