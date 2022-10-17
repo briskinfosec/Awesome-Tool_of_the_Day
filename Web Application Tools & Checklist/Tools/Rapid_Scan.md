@@ -4,7 +4,7 @@ RapidScan is a python based scanning tool used for analyzing vulnerabilities in 
 
 The tool runs these utilities to find vulnerabilities in web applications. Some well-known checks performed by the tool include XSS, SQLi, DNS zone transfer, Local File Inclusing (LFI), Remote File Inclusion (RFI), Open directory vulnerabilities, open ports, and SSL related vulnerabilities. The tool not only finds out the vulnerabilities but also classifies them into low, medium, high, and critical categories according to the risk definition.
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Tool_Of_the_day09.jpg)
+![Rapidscan](https://www.briskinfosec.com/assets/tooloftheday/Tool_Of_the_day09.jpg)
 
 # How to Install The Tool: 
 Installation of RapidScan is a straightforward process. The tool can be installed by cloning the Github repository using the following command.The tool requires minimum python 2.7
