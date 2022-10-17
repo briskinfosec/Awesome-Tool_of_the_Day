@@ -1,9 +1,9 @@
 XssSniper
 ============
-Github : https://github.com/gbrindisi/xsssniper 
+
 xsssniper is an handy xss discovery tool with mass scanning functionalities. 
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_183.jpg)
+![XssSniper](https://www.briskinfosec.com/assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_183.jpg)
 
 # Usage:
 |  Options | Description   |
