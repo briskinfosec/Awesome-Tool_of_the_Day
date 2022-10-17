@@ -2,7 +2,7 @@ Apkurlgrep
 ============
 Apkurlgrep Tool helps to extract endpoints from APK files. It used apktool to do the decomplie. It can extract domains and their sub paths as well. .
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/120.jpg)
+![Apkurlgrep](https://www.briskinfosec.com//assets/tooloftheday/120.jpg)
 
 Details:
 ============
