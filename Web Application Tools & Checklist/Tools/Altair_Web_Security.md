@@ -2,7 +2,7 @@ Altair Web Security
 ============
 Altair is a Python based tool that does not require any specific packages to be installed as a pre-requisite. The SQLMAP and Lfier tools must be available on the disposal of the tool if the goal is to exploit the (LFI,SQL) vulnerabilities found during the scanning process.
 
-![Altair Web Security](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_3.jpg)
+![Altair Web Security](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_3.jpg)
 
 Installation
 ----------------
