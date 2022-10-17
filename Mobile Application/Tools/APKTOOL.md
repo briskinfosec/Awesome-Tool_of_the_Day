@@ -4,7 +4,7 @@ Apktool is a tool for reverse engineering 3rd party, closed, binary Android apps
 
 We use apktool for decoding resources to nearly original form and rebuilding them.
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/TOD_105.jpg)
+![APKTool](https://www.briskinfosec.com/assets/tooloftheday/TOD_105.jpg)
 
 Details:
 ============
