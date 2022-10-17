@@ -2,6 +2,8 @@ shcheck
 ============
  A basic tool to check security headers of a website 
  
+ ![Shcheck]()
+ 
 Check security headers on a target website:
 -----------------
 - I did this tool to help me to check which security headers are enabled on certain websites.
@@ -13,7 +15,7 @@ How to run:
 ----------------
 # Pypi
 - pip3 install shcheck
- - shcheck.py https://insecurity.blog
+- shcheck.py https://insecurity.blog
 
 # Docker
     First build your docker container using something like this:
