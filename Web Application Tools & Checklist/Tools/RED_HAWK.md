@@ -2,7 +2,7 @@ RED_HAWK
 ============
  All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers 
  
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_175.jpg)
+![Red_Hawk](https://www.briskinfosec.com/assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_175.jpg)
 
 # Usage: 
 - git clone https://github.com/Tuhinshubhra/RED_HAWK 
