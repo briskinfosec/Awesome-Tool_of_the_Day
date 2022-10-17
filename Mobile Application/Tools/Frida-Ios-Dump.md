@@ -2,7 +2,7 @@ Frida-Ios-Dump
 ============
 Frida-ios-dump tool is used to pull decrypted IPA of any app which is installed in a jailbroken device. This tool requires frida which needs to be installed in iphone and kali Linux.
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_193.jpg)
+![Frida-Ios-Dump](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_193.jpg)
 
 Details:
 ============
