@@ -5,7 +5,7 @@ h8mail is an email OSINT and breach hunting tool using different breach and reco
 
 
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_176.jpg)
+![h8mail](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_176.jpg)
 
 Details:
 ============
@@ -22,7 +22,7 @@ Click Here for [Video](https://www.youtube.com/watch?v=E4OVQ9PsCo4 "Video")
 
 Blog: 
 --------------
-Click Here for [Blog](https://briskinfosec.com/tooloftheday/toolofthedaydetail/h8mail- "Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/h8mail- "Blog")
 
 Installation
 ----------------
