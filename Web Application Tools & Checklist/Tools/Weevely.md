@@ -2,7 +2,7 @@ WEEVELY
 ============
 Weevely is a web shell designed for post-exploitation purposes that can be extended over the network at runtime.
 
-![ ](https://briskinfosec.com//assets/tooloftheday/147.jpg)
+![Weevely ](https://www.briskinfosec.com/assets/tooloftheday/147.jpg)
 
 
 Details:
