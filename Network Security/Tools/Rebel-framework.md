@@ -3,7 +3,7 @@ REBEL FRAMEWORK
 
 Rebel framework is a module-based framework which has multiple tools integrated within it.
 
-![ ](https://briskinfosec.com//assets/tooloftheday/114.jpg)
+![REBEL FRAMEWORK](https://www.briskinfosec.com//assets/tooloftheday/114.jpg)
 
 
 Details:
