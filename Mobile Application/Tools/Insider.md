@@ -14,7 +14,7 @@ Insider tool is secure code reviewer, which exclusively focused on covering the 
 
     and Javascript (Node.js)
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/140.jpg)
+![Insider](https://www.briskinfosec.com//assets/tooloftheday/140.jpg)
 
 Details:
 ============
