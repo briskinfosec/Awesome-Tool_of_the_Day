@@ -19,7 +19,7 @@ Click Here for [Video](https://www.youtube.com/watch?v=8FNy9V4Xebk "Video")
 
 Blog: 
 --------------
-Click Here for [Blog](hhttps://www.briskinfosec.com/tooloftheday/toolofthedaydetail/Weevely- "Blog")
+Click Here for [Blog](hhttps://www.briskinfosec.com/tooloftheday/toolofthedaydetail/Weevely "Blog")
 
 Installation
 ----------------
