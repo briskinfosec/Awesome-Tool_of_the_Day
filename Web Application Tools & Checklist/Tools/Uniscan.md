@@ -2,7 +2,7 @@ UNISCAN
 ============
 Uniscan is a simple Remote File Include, Local File Include and Remote Command Execution vulnerability scanner.
 
-![UNISCAN](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_190.jpg)
+![UNISCAN](https://www.briskinfosec.com/assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_190.jpg)
 
 Details:
 ============
