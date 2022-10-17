@@ -2,7 +2,7 @@ Hawkscan
 ============
 Security Tool for Reconnaissance and Information Gathering on a website.
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/HawkScan.png)
+![Hawkscan](https://www.briskinfosec.com/assets/tooloftheday/HawkScan.png)
 
 Installation
 ----------------
