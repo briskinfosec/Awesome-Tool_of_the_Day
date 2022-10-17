@@ -3,7 +3,7 @@ OWASP AMASS TOOL
 
 The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
 
-![ ](https://briskinfosec.com//assets/tooloftheday/119.jpg)
+![OWASP AMASS TOOL](https://www.briskinfosec.com//assets/tooloftheday/119.jpg)
 
 
 Details:
