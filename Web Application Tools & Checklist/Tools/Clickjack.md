@@ -2,7 +2,7 @@ Clickjack
 ============
 Simple script to test if a page is vulnerable to clickjacking.
 
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_181.jpg)
+![Webpwn3r](https://www.briskinfosec.com/assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_181.jpg)
 
 Details:
 ============
