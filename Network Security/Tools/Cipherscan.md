@@ -3,7 +3,7 @@ CIPHERSCAN
 
 A very simple way to find out which SSL ciphersuites are supported by a target.
 
-![ ](https://briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_2.jpg)
+![CIPHERSCAN](https://www.briskinfosec.com//assets/tooloftheday/Copy_of_Briskinfosec_TOD_Latest_samples_2.jpg)
 
 
 Details:
@@ -22,7 +22,7 @@ Click Here for [Video](https://www.youtube.com/watch?v=VBoDiKlPWW8 "Video")
 
 Blog: 
 --------------
-Click Here for [Blog](https://briskinfosec.com/tooloftheday/toolofthedaydetail/CIPHERSCAN "Blog")
+Click Here for [Blog](https://www.briskinfosec.com/tooloftheday/toolofthedaydetail/CIPHERSCAN "Blog")
 
 Installation
 ----------------
