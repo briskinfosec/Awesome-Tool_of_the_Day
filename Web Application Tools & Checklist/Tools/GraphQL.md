@@ -2,7 +2,7 @@ GraphQL
 ============
 GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.
 
-![Webpwn3r]()
+![GraphQL](https://www.briskinfosec.com//assets/tooloftheday/graphql.png)
 
 Details:
 ============
