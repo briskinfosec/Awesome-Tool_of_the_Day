@@ -2,7 +2,7 @@ Skipfish
 ============
 Skipfish is a powerful reconnaissance tool that has the ability to carry out security checks on web-based applications. Through recursive crawls and launching probes on the available dictionary files the tool is able to prepare a site map which acts as an interactive platform for the site that is being targeted. The map that is obtained is annotated using the resulting outputs that are gotten from several security checks. The tool then generates a report which can aid in handling security-related issues on a given web application, acting as a basic foundation for all the security assessments carried out on a particular web-based application.   
  
-![Webpwn3r](https://briskinfosec.com//assets/tooloftheday/Copy_of_Copy_of_143.jpg)
+![Skipfish](https://briskinfosec.com//assets/tooloftheday/Copy_of_Copy_of_143.jpg)
 
 # Installation : 
     Step 1: git clone https://github.com/spinkham/skipfish.git 
